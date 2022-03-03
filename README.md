@@ -1,5 +1,7 @@
 # semantic-release-helm
 
+**Notes:** This version differs from the main project by supporting helm 3.8.0 for helm package and release.
+
 This is a plugin for _semantic-release_. It updates `version` and `appVersion` of a [Helm](https://helm.sh/) chart's
 _Chart.yaml_.
 
